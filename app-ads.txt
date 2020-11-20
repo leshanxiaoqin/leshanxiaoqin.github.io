@@ -2,6 +2,8 @@ google.com, pub-2510469495062387, DIRECT, f08c47fec0942fa0
 google.com, pub-3398049612144040, DIRECT, f08c47fec0942fa0
 oceanengine.com, 14901, DIRECT
 oceanengine.com, 14893, DIRECT
+"facebook.com, 233407647319797, RESELLER, c3e20eee3f780d68
+facebook.com, 1543014339134156, RESELLER, c3e20eee3f780d68"
 "applovin.com, 2c8b109c1fa7ab94ac45cb1b7d806620, DIRECT
 "
 applovin.com, 89af518eb88c1c29a7220aa1dbca1c0e, DIRECT

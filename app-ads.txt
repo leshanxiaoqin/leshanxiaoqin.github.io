@@ -2,21 +2,20 @@ google.com, pub-2510469495062387, DIRECT, f08c47fec0942fa0
 google.com, pub-3398049612144040, DIRECT, f08c47fec0942fa0
 oceanengine.com, 14901, DIRECT
 oceanengine.com, 14893, DIRECT
-"facebook.com, 233407647319797, RESELLER, c3e20eee3f780d68
-facebook.com, 1543014339134156, RESELLER, c3e20eee3f780d68"
-"applovin.com, 2c8b109c1fa7ab94ac45cb1b7d806620, DIRECT
-"
+facebook.com, 233407647319797, RESELLER, c3e20eee3f780d68
+facebook.com, 1543014339134156, RESELLER, c3e20eee3f780d68
+applovin.com, 2c8b109c1fa7ab94ac45cb1b7d806620, DIRECT
 applovin.com, 89af518eb88c1c29a7220aa1dbca1c0e, DIRECT
-"adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
 indexexchange.com, 191086, RESELLER
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-indexexchange.com, 191086, RESELLER"
+indexexchange.com, 191086, RESELLER
 fyber.com, 213487, DIRECT 
-"adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 admanmedia.com, 26, RESELLER
 advertising.com, 25990, RESELLER
 algorix.co, 54236, RESELLER
@@ -56,10 +55,10 @@ smartadserver.com, 3713, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 startapp.com, inr, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-video.unrulymedia.com, 2169000724, RESELLER"
+video.unrulymedia.com, 2169000724, RESELLER
 ironsrc.com,155421, DIRECT, 79929e88b2ba73bc
 ironsrc.com, 268215, DIRECT, 79929e88b2ba73bc
-"advertising.com, 8693, RESELLER
+advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2234, RESELLER, f5ab79cb980f11d1
@@ -107,9 +106,9 @@ stroeer.com, 17355, RESELLER
 telaria.com, 7wy0w, RESELLER, 1a4e959a1b50034a
 tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
 undertone.com, 3635, RESELLER
-yieldlab.net, 6378054, RESELLER"
+yieldlab.net, 6378054, RESELLER
 unity.com, 1022966, DIRECT, 96cabb5fbdde37a7
-"loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
@@ -135,9 +134,9 @@ kidoz.net, 19692013, RESELLER
 lemmatechnologies.com, 362, RESELLER
 google.com, pub-7311153630426193, RESELLER
 telaria.com, rwd19-1022966, RESELLER, 1a4e959a1b50034a
-tremorhub.com, rwd19-1022966, RESELLER, 1a4e959a1b50034a"
+tremorhub.com, rwd19-1022966, RESELLER, 1a4e959a1b50034a
 vungle.com, 570b542c57a6d6407a00003d, DIRECT, c107d686becd2d77
-"adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adcolony.com, 81685aa581edd381, RESELLER, 1ad675c9de6b5176
 adcolony.com, f858ba060bce51ad, RESELLER, 1ad675c9de6b5176
@@ -249,9 +248,9 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3704396951, RESELLER
 video.unrulymedia.com,4268206200,RESELLER
 webeyemob.com, 70090, RESELLER
-yieldlab.net, 2172218, RESELLER"
+yieldlab.net, 2172218, RESELLER
 mintegral.com, 17588, DIRECT, 0aeed750c80d6423
-"pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 3704396951, RESELLER
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 Verve.com, 15503, RESELLER, 0c8f5958fc2d6270 #Verve - for indirect pubs
@@ -337,9 +336,9 @@ pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
-smartadserver.com, 1692, RESELLER"
+smartadserver.com, 1692, RESELLER
 inmobi.com, 3e5f00623c0b4fa4b83259df91a9185b, DIRECT, 83e75a7ae333ca9d
-"freewheel.tv, 848065, RESELLER
+freewheel.tv, 848065, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
@@ -391,12 +390,12 @@ xad.com, 1190, RESELLER, 81cbf0a75a5e0e9a
 smartadserver.com, 3564, RESELLER
 indexexchange.com, 184738, RESELLER
 freewheel.tv, 1158193, RESELLER
-rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807"
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 tapjoy.com, 5ddafa1f49824d4ebd9c7ff32924c323, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
-"smaato.com, 1100023349, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4"
-"adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
+smaato.com, 1100023349, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 admanmedia.com, 552, RESELLER
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER
@@ -422,9 +421,9 @@ pubnative.net, 1007194, RESELLER, d641df8625486a7b
 rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 smartadserver.com, 3117, RESELLER
 startapp.com, smt, RESELLER
-xad.com, 241, RESELLER, 81cbf0a75a5e0e9a"
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 chartboost.com, 570a5b8a43150f52f1ab8597, DIRECT
-"appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
 gothamads.com, 532, RESELLER, d9c86e5dec870222
 gothamads.com, 533, RESELLER, d9c86e5dec870222
@@ -456,4 +455,8 @@ spotx.tv, 234183, RESELLER, 7842df1d2fe2db34
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 advertising.com, 28246, RESELLER
-sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e"
+sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+ogury.com, 9fff727e613e88347c45176936e1ff01, DIRECT
+ogury.com, 063218dcfc8a0c66e7873ed7f171a0a7, DIRECT
+ogury.com, 88534c1803dd895b4620e6a8afae001e, DIRECT
+appnexus.com, 11470, RESELLER
